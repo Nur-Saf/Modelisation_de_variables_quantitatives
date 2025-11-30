@@ -21,7 +21,7 @@ L’objectif principal est de :
 **Statistique & économétrie**
 
 * Analyse descriptive
-* Tests statistiques (normalité, Levene, ANOVA…)
+* Tests statistiques (normalité, ANOVA…)
 * Sélection de variables (regsubsets)
 * Régression linéaire multiple et validation du modèle
 * Gestion des valeurs manquantes (KNN)
